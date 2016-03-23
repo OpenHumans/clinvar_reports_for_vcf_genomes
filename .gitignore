@@ -1,0 +1,8 @@
+*.pyc
+report_directory/*
+vcf_directory/*
+source_files/*
+
+!report_directory/.placeholder
+!vcf_directory/.placeholder
+!source_files/.placeholder

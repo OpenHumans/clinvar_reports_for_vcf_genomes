@@ -1,0 +1,5 @@
+argparse==1.2.1
+myvariant==0.2.0
+requests==2.9.1
+vcf2clinvar==0.1.2
+wsgiref==0.1.2
